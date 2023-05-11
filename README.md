@@ -1,4 +1,4 @@
-#Sudoku Solver
+# Sudoku Solver
 This is a simple sudoku solver written in python. It uses a genetic algorithm to solve the sudoku puzzle. The algorithm is as follows:
 1. Generate a random population of sudoku boards
 2. Calculate the fitness of each board
